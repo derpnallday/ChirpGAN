@@ -1,5 +1,5 @@
 # ChirpGAN
 
-## Project details are located within ChirpGAN.PDF
+Project details are located within ChirpGAN.PDF
 
 
